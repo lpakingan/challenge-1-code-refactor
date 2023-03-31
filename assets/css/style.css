@@ -1,13 +1,16 @@
+/* universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* selector for body elements */
 body {
     background-color: #d9dcd6;
 }
 
+/* selectors for header elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +44,18 @@ body {
     margin-left: 25px;
 }
 
+/* selector for links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* selector for paragraphs */
 p {
     font-size: 16px;
 }
 
+/* selector for main graphic on website */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +65,8 @@ p {
     background-position: center;
 }
 
+/* selectors for elements in the 'content' class section */
+/* includes consolidated selectors for div, img, h2 */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +101,8 @@ p {
     margin-left: 25px;
 }
 
+/* selectors for elements in the 'benefits' class section */
+/* includes consolidated selectors for div, img, h3 */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +130,7 @@ p {
     max-width: 150px;    
 }
 
+/* selectors for footer elements*/
 .footer {
     padding: 30px;
     clear: both;
