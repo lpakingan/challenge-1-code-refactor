@@ -31,7 +31,9 @@ In order to make the website more accessible, the **alt** attribute was used in 
 
 The initial code lacked the semantic elements of **header**, **nav**, **section**, and **footer**. These were all added to increase the organization of the structure of the file. 
 
-It was noticed that one of the links in the nav bar (Search Engine Optimization) was not redirecting to the respective section on the webpage. This was due to the respective id not being included. Upon adding the id to the content section, the link worked.
+It was noticed that one of the links in the nav bar (Search Engine Optimization) was not redirecting to the respective section on the webpage. This was due to the respective id not being included. Upon adding the id to the content section, the link worked. A demo of this is shown below:
+
+![](https://github.com/lpakingan/challenge-1-code-refractor/blob/main/assets/demo/hyperlink.gif)
 
 #### CSS
 
