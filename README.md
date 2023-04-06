@@ -1,4 +1,4 @@
-# Bootcamp Challenge #1: Code Refractor
+# Bootcamp Challenge #1: Code Refactor
 
 ## Summary of the Challenge
 
@@ -33,7 +33,7 @@ The initial code lacked the semantic elements of **header**, **nav**, **section*
 
 It was noticed that one of the links in the nav bar (Search Engine Optimization) was not redirecting to the respective section on the webpage. This was due to the respective id not being included. Upon adding the id to the content section, the link worked. A demo of this is shown below:
 
-![](https://github.com/lpakingan/challenge-1-code-refractor/blob/main/assets/demo/hyperlink.gif)
+![](https://github.com/lpakingan/challenge-1-code-refactor/blob/main/assets/demo/hyperlink.gif)
 
 #### CSS
 
@@ -42,4 +42,4 @@ The CSS file was reorganized to follow the logical order of elements in the HTML
 The CSS file was commented on to explain which parts of the webpage each selector was influencing.
 
 ## Deployed Application
-The final deployed webpage can be found [here](https://lpakingan.github.io/challenge-1-code-refractor/).
+The final deployed webpage can be found [here](https://lpakingan.github.io/challenge-1-code-refactor/).
