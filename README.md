@@ -38,3 +38,6 @@ It was noticed that one of the links in the nav bar (Search Engine Optimization)
 The CSS file was reorganized to follow the logical order of elements in the HTML file. There were also a lot of redundant selectors pertaining to elements with the same stylistic parameters. This was fixed by consolidating the redundant selectors into one main selector (i.e the consolidation of all 3 img parameters into 1 by using the class as the main selector instead of each unique element). 
 
 The CSS file was commented on to explain which parts of the webpage each selector was influencing.
+
+## Deployed Application
+The final deployed webpage can be found [here](https://lpakingan.github.io/challenge-1-code-refractor/).
